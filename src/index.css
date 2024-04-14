@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    /* background-image: linear-gradient(to right, #718096, #2d3748); */
+    /* background: #2d3748;
+     */
+     /* background-image: linear-gradient(to right, #cbd5e0, #a0aec0);
+      */
+      /* background-image: linear-gradient(to right, #1a202c, #4a5568); */
+      /* background-image: linear-gradient(to right, #9f7aea, #f43f5e); */
+      background-color: #fff;
+
+}
